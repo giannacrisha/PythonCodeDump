@@ -1,3 +1,2 @@
 # PythonCodeDump
-i found these files in my flashdrive
-imma upload them here so i can delete them
+i found these old files in my flashdrive. imma upload them here so i can delete them
