@@ -3,7 +3,8 @@ words = {
 	'Dictionary' : 'a collection of key-value pairs',
 	'Conditional tests' : 'expressions that can be evaluated as True or False',
 	'List' : 'a collection of items in a particular order',
-	'Immutable' : 'cannot be modified'
+	'Immutable' : 'cannot be modified',
+	'Set' : 'similar to a list, but each item in it must be unique'
 }
 
 for word in words:
