@@ -6,4 +6,5 @@ favnums = {
 	'rey': 68
 }
 
-print(favnums)
+for name, favnum in favnums.items():
+	print(str(name) + str(favnum))
