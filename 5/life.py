@@ -1,4 +1,4 @@
-age = 0
+age = input("How old are you? ")
 
 if age < 2:
 	print('You are a baby!')
